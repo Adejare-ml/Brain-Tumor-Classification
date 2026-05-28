@@ -1,0 +1,4 @@
+﻿class,Dino V2,Vit B-32,HorNet
+F1-score,0.9083,0.9534,0.8917
+ROC_AUC,0.9841,0.9978,0.9748
+Accuracy,0.91,0.9528,0.8993
